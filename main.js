@@ -17,7 +17,7 @@ function createWindow () {
     width: 1200, 
     height: 600,
     title:'frameless-app',
-    backgroundColor:'#fff',
+    // backgroundColor:'#fff',  if  i do not  open this... 
     frame:false
 
   });
