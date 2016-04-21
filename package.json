@@ -1,0 +1,22 @@
+{
+  "name": "frameless-app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaojiyong/electron-frameless.git"
+  },
+  "keywords": [
+    "frameless"
+  ],
+  "author": "gaojiyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaojiyong/electron-frameless/issues"
+  },
+  "homepage": "https://github.com/gaojiyong/electron-frameless#readme"
+}
